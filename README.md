@@ -1,10 +1,10 @@
-# GoogleEarthImageMerger
+# Google Earth Image Merger
 
-GoogleEarthImageMerger is a C++ project that utilizes the OpenCV library to merge images and remove watermarks. This project is designed to be used for educational purposes only.
+Google Earth Image Merger is a C++ project that utilizes the OpenCV library to merge images and remove watermarks. This project is designed to be used for educational purposes only.
 
 ## Usage
 
-To use the GoogleEarthImageMerger, follow these steps:
+To use the Google Earth Image Merger, follow these steps:
 
 1. Export the desired image twice, once with the watermark on the left side and once with the watermark on the right side.
 
@@ -18,7 +18,7 @@ To use the GoogleEarthImageMerger, follow these steps:
 
 ## Disclaimer
 
-This project is provided for educational purposes only. The GoogleEarthImageMerger is not intended for any unauthorized use, including the removal of watermarks from copyrighted images. Please respect intellectual property rights and use this software responsibly.
+This project is provided for educational purposes only. The Google Earth Image Merger is not intended for any unauthorized use, including the removal of watermarks from copyrighted images. Please respect intellectual property rights and use this software responsibly.
 
 ## Requirements
 
@@ -27,7 +27,7 @@ This project is provided for educational purposes only. The GoogleEarthImageMerg
 
 ## Installation
 
-1. Clone or download the GoogleEarthImageMerger repository.
+1. Clone or download the GEIM repository.
 
 2. Make sure you have OpenCV installed on your system.
 
@@ -41,4 +41,4 @@ This project is released under the MIT License. Feel free to modify and distribu
 
 ## Contributing
 
-Contributions to the GoogleEarthImageMerger project are welcome. If you encounter any issues or have suggestions for improvements, please submit them as GitHub issues or create a pull request with your changes.
+Contributions to the Google Earth Image Merger project are welcome. If you encounter any issues or have suggestions for improvements, please submit them as GitHub issues or create a pull request with your changes.
